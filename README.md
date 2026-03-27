@@ -15,6 +15,7 @@ This is a Python code that enters full screen and displays you have been hacked.
 
 # How to use
 > You just have to dowloand the file as a zip, unzip it and install Python on your computer and get a program to run the script. If there is any problem with the script please out to us.
+> If you want to exit the full screen you can do so by pressing the "ESC" button on your keyboard.
 
 --------------------
 
