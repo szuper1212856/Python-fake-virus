@@ -4,6 +4,13 @@
 
 This is a Python code that displays a big screen displaying you have been hacked.
 
-IT HAS BEEN DESIGNED AND MADE FOR EDUCATIONAL PURPOSES, THE CREATOR IS NO WAY RESPONSIBLE FOR ANY HARM YOU DO.
+
+--------------------
+
+# Disclaimer
+> Information and code provided on this repository are for educational purposes only. The creator is no way responsible for any direct or indirect damage caused due to the misusage of the information. Everything you do, you are doing at your own risk and responsibility.
+
+--------------------
+
 
 
