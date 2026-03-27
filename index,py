@@ -1,4 +1,3 @@
-<!DOCTYPE python>
 
 import tkinter as tk
 import random
