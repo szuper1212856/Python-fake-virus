@@ -13,8 +13,6 @@ This is a Python code that displays a big screen displaying you have been hacked
 --------------------
 
 
---------------------
-
 # How to use
 > You just have to dowloand the file as a zip, unzip it and install Python on your computer and get a program to run the script. If there is any problem with the script please out to us.
 
