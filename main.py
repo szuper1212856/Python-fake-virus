@@ -210,15 +210,7 @@ def main():
 
     bottom = tk.Frame(root, bg="#1a0000", pady=8)
     bottom.pack(fill="x")
-
-    tk.Label(
-        bottom,
-        text="Contact Microsoft Support immediately: 1-800-642-7676  |  Do NOT close this window",
-        fg="#ff9999",
-        bg="#1a0000",
-        font=("Consolas", 12)
-    ).pack()
-
+    
     tk.Label(
         bottom,
         text="Press ESC only if you accept full responsibility for data loss",
