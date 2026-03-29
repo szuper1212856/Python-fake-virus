@@ -1,6 +1,6 @@
 # Python-fake-virus
 
-<img width="1920" height="1080" alt="Képernyőfelvétel (4)" src="https://github.com/user-attachments/assets/6380d266-b0cd-4210-a42e-abe5edf8e494" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/19185f45-57fd-4f7f-ad88-d197df7e6845" />
 
 This is a Python code that enters full screen and displays you have been hacked.
 
